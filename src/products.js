@@ -1,0 +1,25 @@
+export const products = [
+    { id: 1, 
+      name: "cinta", 
+      price: 100, 
+      category: "A" ,
+      stock: 1,
+      descripcion: "la mejor cinta" ,
+    },
+    { id: 2, 
+      name: "papel fiambre", 
+      price: 200, 
+      category: "B",
+      stock: 12,
+      descripcion: "papel resistente de fiambres",
+    },
+    { id: 3, 
+      name: "tupper", 
+      price: 300, 
+      category: "A", 
+      stock: 12,
+      descripcion: "tupper grande" ,
+    },
+  ];
+  
+

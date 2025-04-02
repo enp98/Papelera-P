@@ -1,9 +1,9 @@
 import './CartWidget.css';
 
-function CartWidget() {
+function CartWidget({cantidad}) {
 
   return (
-    <p>🛒(2)</p>
+    <p>{cantidad}</p>
   );
 };
 
